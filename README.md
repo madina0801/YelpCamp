@@ -7,6 +7,8 @@ Back-end: Nodejs, Express
 
 Database: Mongodb
 
+CRUD Operations were implemented on campgrounds
+
 # Main page:
 ![main](https://user-images.githubusercontent.com/101329759/195991821-1fab3953-04f0-4685-83c6-051119fa494e.PNG) <br />
 
