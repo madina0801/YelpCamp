@@ -5,7 +5,7 @@ Front-end: Ejs, CSS, Bootstrap
 
 Back-end: Nodejs, Express
 
-Database: Mongodb
+Database: MongoDB
 
 CRUD Operations were implemented on campgrounds
 
